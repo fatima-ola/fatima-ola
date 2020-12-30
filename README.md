@@ -1,6 +1,6 @@
 ### 👋Hi there! I'm Fatima Olasunkanmi-Ojo
 
-I’m a Front End developer, a passionate learner who's always willing to learn and work across technologies, a technical writer, an open-source enthusiast. I enjoyed working in teams.
+I’m a Front End developer, a passionate learner who's always willing to learn and work across technologies, a technical writer at [Here](https://fatima-ola.hashnode.dev/), an open-source enthusiast. I enjoyed working in teams.
 
 
 - 🔭 I’m currently working on ReactJs
