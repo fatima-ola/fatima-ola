@@ -1,16 +1,15 @@
-### Hi there 👋
+### 👋Hi there! I'm Fatima Olasunkanmi-Ojo
 
-<!--
-**fatima-ola/fatima-ola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Front End developer, a passionate learner who's always willing to learn and work across technologies, a technical writer, an open-source enthusiast. I enjoyed working in teams.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on ReactJs
+- 🌱 I’m currently learning Front End Development
+- 👯 I’m looking to contibute to Open Source 
+- 🤔 I’m looking for help with opensource
+- 💬 Ask me about ReactJs
+- 📫 How to reach me:
+    [Twitter](@fatima_ola1)
+    [Website](https://fatimaolasunkanmi.netlify.app/)    
+- 😄 Pronouns: SHE/HER
+- ⚡ Fun fact: I love to travel and explore places. I have an eye for fashion
